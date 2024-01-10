@@ -1,2 +1,2 @@
-# drilly
-Mitt skole prsjekt for webutvikling!
+# dino
+Mitt fçrste prosjekt for webutvikling!
