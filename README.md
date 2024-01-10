@@ -1,2 +1,2 @@
 # dino
-Mitt fçrste prosjekt for webutvikling!
+Mitt første prosjekt for webutvikling!
